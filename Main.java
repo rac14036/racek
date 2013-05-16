@@ -1,6 +1,8 @@
 public class Main{
 
 	public static void main(string[] args){
-		System.out.println("Hallo Welt, ich heiße Thomas");
+		String name="Thomas";
+		String name="Daniel";
+		System.out.println("Hallo Welt, ich heiße "+name+"!");
 	}
 }
